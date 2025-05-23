@@ -1,3 +1,4 @@
-forms, tables, nav, a href
-semantic html (header, section, article, nav, figure, aside, footer)
-
+forms, tables, nav, a href, div
+(inline & block-level elements)
+semantic html (header, nav, section, article, figure, aside, footer)
+table(tr, td)
