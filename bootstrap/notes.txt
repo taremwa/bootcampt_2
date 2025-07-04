@@ -1,0 +1,7 @@
+Bootstrap
+-----------------------
+
+>> frontend framework -> simplified styling
+>>templates => button, image carousels, forms, tables...etc
+
+Responsive | mobile-first approach | browser compatibility
